@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Protocolo de Risco de Saúde",
+  "description": "Um assistente de IA profissional que transforma relatos informais de ocorrências em protocolos de segurança técnicos e acionáveis, seguindo os padrões de segurança hospitalar para agilizar a resposta a incidentes.",
+  "requestFramePermissions": []
+}
